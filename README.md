@@ -20,7 +20,7 @@ O objetivo é fornecer uma visão clara e baseada em dados para a Administraçã
 
 Para garantir que a automação seja construída como um produto de software resiliente, escalável e seguro, o investimento inicial (CAPEX) desta calculadora é unificado na rubrica **"Custos Totais do Squad Integrado"**.
 
-Este valor absorve a atuação multidisciplinar de uma equipa de alta performance:
+Este valor absorve a atuação multidisciplinar de uma equipe de alta performance:
 * **Product Owner (PO) & Scrum Master:** Alinhamento estratégico, gestão de *backlog* e cadência ágil.
 * **Arquitetura & Engenharia (Dev):** Desenvolvimento de integrações via APIs e arquitetura escalável.
 * **Governação de TI & AppSec (Sec):** Conformidade de dados, versionamento, revisão de código e implementação de esteiras de CI/CD contínuas.
